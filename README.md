@@ -1,5 +1,5 @@
 #sobre mim
-- 👋 Hi, I’m @tiagoNelson
+- 👋 Oi eu sou o @tiagoNelson
 - :+1: meu email de contato tiago.chervinski@escola.pr.gov.br
 - 👀 Eu estou interessado em aperender a progamar novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
